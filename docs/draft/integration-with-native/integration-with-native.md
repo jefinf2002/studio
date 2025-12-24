@@ -201,6 +201,10 @@ getGlobalVariable
 
 Za native akcije je također moguće definirati flow koji se koristi samo kada se projekt izvršava u Studiju, a odbacuje se prilikom buildanja projekta, jer se prilikom native izvršavanja koristi native akcija.
 
+## ESP32 Board Setup
+
+For ESP32 development boards, you'll need to set up the Arduino IDE with ESP32 board support. See the [ESP32 Setup Guide](../../ESP32_SETUP.md) ([Guía en Español](../../ESP32_SETUP_ES.md)) for detailed installation instructions and troubleshooting.
+
 ## Example Projects
 
 ### Development boards
