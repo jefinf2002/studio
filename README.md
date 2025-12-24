@@ -22,6 +22,10 @@ _The user owns the `.eez-project` file and all the source code generated from th
 
 EEZ Studio is a free and open source cross-platform low-code visual tool for desktop and embedded GUIs with [LVGL](https://lvgl.io/) support. Built-in _EEZ Flow_ enables the creation of complex scenarios for test and measurement automation, and the Instruments feature offers remote control of multiple devices and T&M equipment including [EEZ BB3](https://github.com/eez-open/modular-psu) T&M chassis and [EEZ H24005](https://github.com/eez-open/psu-hw) programmable power supply and any other T&M devices that support [SCPI](https://www.ivifoundation.org/scpi/) from manufacturers such as Keysight, Rigol, Siglent, etc.
 
+### ESP32 Setup
+
+If you're working with ESP32 boards and Arduino IDE, check out our [ESP32 Setup Guide](docs/ESP32_SETUP.md) ([Guía en Español](docs/ESP32_SETUP_ES.md)) for detailed instructions on installing the ESP32 board package and troubleshooting common issues.
+
 ### EEZ Studio _Project_
 
 ![EEZ Studio Project](docs/images/projects_intro.png)
